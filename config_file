@@ -1,0 +1,12 @@
+{
+    "max_len": 30,
+    "num_heads": 8,
+    "ff_dim": 128,
+    "bl_dim": 128,
+    "key_dim": 2,
+    "d_model": 1,
+    "m": 1,
+    "constant_values": -1,
+    "loss": "MAE",
+    "metrics": "MSE"
+}
